@@ -1,0 +1,354 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{34, 6}, {300, 59}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 25,
+          "frame" : "{{125, 261}, {150, 32}}",
+          "uuid" : "F3DC3CD8-9C79-4E90-8C8C-58FEA7BD9131",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "MCBE ManifestGenerator",
+          "name" : "Title",
+          "font_name" : "<System-Bold>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{283, 74}, {51, 31}}",
+        "class" : "Switch",
+        "attributes" : {
+          "frame" : "{{175, 262}, {51, 31}}",
+          "value" : false,
+          "class" : "Switch",
+          "name" : "Resource_sw",
+          "uuid" : "D9C157DC-F1E9-44F0-B051-86DA39F0106C"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{34, 73}, {115, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{125, 261}, {150, 32}}",
+          "uuid" : "8DC5E5A3-E329-4944-A83C-B4536B27C4DB",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "ResourcePack",
+          "name" : "Option",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{34, 113}, {168, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{125, 261}, {150, 32}}",
+          "uuid" : "8DC5E5A3-E329-4944-A83C-B4536B27C4DB",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "ResourcePack(Data)",
+          "font_size" : 18,
+          "name" : "Option2"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{283, 114}, {51, 31}}",
+        "class" : "Switch",
+        "attributes" : {
+          "frame" : "{{175, 262}, {51, 31}}",
+          "value" : false,
+          "class" : "Switch",
+          "name" : "Data_Resource_sw",
+          "uuid" : "D9C157DC-F1E9-44F0-B051-86DA39F0106C"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{34, 153}, {104, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "Option3",
+          "frame" : "{{125, 261}, {150, 32}}",
+          "uuid" : "8DC5E5A3-E329-4944-A83C-B4536B27C4DB",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "BehavaPack",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{283, 154}, {51, 31}}",
+        "class" : "Switch",
+        "attributes" : {
+          "frame" : "{{175, 262}, {51, 31}}",
+          "value" : false,
+          "class" : "Switch",
+          "name" : "BehavaPack_sw",
+          "uuid" : "D9C157DC-F1E9-44F0-B051-86DA39F0106C"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{34, 193}, {80, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{125, 261}, {150, 32}}",
+          "uuid" : "8DC5E5A3-E329-4944-A83C-B4536B27C4DB",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "SkinPack",
+          "name" : "Option4",
+          "font_size" : 18
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{283, 194}, {51, 31}}",
+        "class" : "Switch",
+        "attributes" : {
+          "frame" : "{{175, 262}, {51, 31}}",
+          "value" : false,
+          "class" : "Switch",
+          "name" : "SkinPack_sw",
+          "uuid" : "D9C157DC-F1E9-44F0-B051-86DA39F0106C"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{34, 353}, {115, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "Option8",
+          "frame" : "{{125, 261}, {150, 32}}",
+          "uuid" : "17C42C45-14C0-416C-8211-1D3811237522",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "min engines :",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{143, 353}, {191, 32}}",
+        "class" : "TextField",
+        "attributes" : {
+          "name" : "min_engines",
+          "frame" : "{{100, 261}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "982C35A0-1500-4EB8-A1EA-603E0E0B8D23",
+          "alignment" : "left",
+          "text" : "1.11.0",
+          "autocorrection_type" : "default",
+          "font_size" : 17,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{34, 313}, {121, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "Option7",
+          "frame" : "{{125, 261}, {150, 32}}",
+          "uuid" : "AE18B636-3AEE-4A67-9532-95D80BD55117",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "Pack Version :",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{151, 313}, {183, 32}}",
+        "class" : "TextField",
+        "attributes" : {
+          "name" : "Pack_Version",
+          "frame" : "{{100, 261}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "E6B25FC5-2ED8-431E-B466-0B8B261A413A",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "font_size" : 17,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{134, 393}, {101, 44}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "main",
+          "frame" : "{{157, 286}, {80, 32}}",
+          "title" : "Create!",
+          "uuid" : "2030F805-CCEF-4022-8ED2-FFE88CFE0F95",
+          "font_bold" : true,
+          "class" : "Button",
+          "name" : "create_button",
+          "font_size" : 25
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{29, 445}, {305, 238}}",
+        "class" : "TextView",
+        "attributes" : {
+          "flex" : "WH",
+          "name" : "Create_Log",
+          "editable" : false,
+          "frame" : "{{97, 202}, {200, 200}}",
+          "spellchecking_type" : "default",
+          "class" : "TextView",
+          "uuid" : "AC73D0EB-2BC6-4F12-8BC1-120A393CFD30",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "font_size" : 17,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{34, 273}, {101, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "Option6",
+          "frame" : "{{124, 329}, {150, 32}}",
+          "uuid" : "ABB86AF9-96F0-4380-BC1E-1B6562F3A0EF",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "Description:",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{134, 273}, {200, 32}}",
+        "class" : "TextField",
+        "attributes" : {
+          "name" : "descript",
+          "frame" : "{{99, 329}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "2952ECEE-5E5E-44FD-985F-DAF82EB4406B",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "font_size" : 17,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{34, 233}, {101, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "Option5",
+          "frame" : "{{124, 329}, {150, 32}}",
+          "uuid" : "0BCF0E6F-85DC-4645-B90F-54CA857CF71A",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "PackName:",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{127, 233}, {207, 32}}",
+        "class" : "TextField",
+        "attributes" : {
+          "font_size" : 17,
+          "frame" : "{{99, 329}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "ACC95DBE-836F-4A42-ABFA-DCD732BE184B",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "name" : "pack_name",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {398, 689}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(1.000000,0.083333,0.083333,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
