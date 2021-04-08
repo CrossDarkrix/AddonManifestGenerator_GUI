@@ -1,2 +1,2 @@
 # PyMCBE AddonManifestGenerator(GUI)
-*A Simple MCBE Manifest Generator.
+*A Simple MCBE Manifest Generator.*
