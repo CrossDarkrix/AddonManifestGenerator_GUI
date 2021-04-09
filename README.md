@@ -1,5 +1,5 @@
 # PyMCBE AddonManifestGenerator(GUI)
 *A Simple MCBE Manifest Generator.*
 
-## Requirement
+## 必要なもの
 *Pythonista3*
